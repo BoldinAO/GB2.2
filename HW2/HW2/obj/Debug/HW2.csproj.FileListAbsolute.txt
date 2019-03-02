@@ -1,0 +1,7 @@
+D:\gb2\HW2\HW2\bin\Debug\HW2.exe.config
+D:\gb2\HW2\HW2\bin\Debug\HW2.exe
+D:\gb2\HW2\HW2\bin\Debug\HW2.pdb
+D:\gb2\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+D:\gb2\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+D:\gb2\HW2\HW2\obj\Debug\HW2.exe
+D:\gb2\HW2\HW2\obj\Debug\HW2.pdb
